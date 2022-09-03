@@ -1,0 +1,7 @@
+ERP System Project in PHP Free Download
+Admin Logn Details
+User: admin@admin
+Pass: 12345
+Sales/Cashier
+User: test
+Pass: test
